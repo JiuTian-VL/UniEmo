@@ -6,7 +6,7 @@ Reasoning </h2>
     <a href="https://zls030726.github.io/" target="_blank">Lingsen Zhang</a>,
     <a href="https://zitongyu.github.io/" target="_blank">Zitong Yu*</a>, 
     <a href="https://rshaojimmy.github.io/OrionLab/" target="_blank">Rui Shao*</a>,
-    <a href="https://scholar.google.com/citations?user=lLg3WRkAAAAJ&hl=en" target="_blank">Kaiyang Zhou</a>,
+    <a href="https://scholar.google.com/citations?user=lLg3WRkAAAAJ&hl=en" target="_blank">Tao Tan</a>,
     <a href="http://faculty.hitsz.edu.cn/guanweili" target="_blank">Liqiang Nie</a>
 </div>
 
