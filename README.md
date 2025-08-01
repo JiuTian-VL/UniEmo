@@ -14,7 +14,7 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 Great Bay University<br>
 Macau Polytechnic University<br>
 *Corresponding author<br>
-[![arXiv](https://img.shields.io/badge/arXiv-2407.14438-b31b1b.svg?logo=arxiv)](https://github.com/JiuTian-VL/UniEmo)
+[![arXiv](https://img.shields.io/badge/arXiv-2507.23372-b31b1b.svg?logo=arxiv)](https://arxiv.org/pdf/2507.23372)
 
 
 </div>
@@ -37,9 +37,12 @@ The whole framework of UniEmo:
 ## 📝 Citation
 
 ```bib
-@article{zhu2025uniemo,
-  title={UniEmo: Unifying Emotional Understanding and Generation with Learnable Expert Queries},
-  author={Zhu, Yijie and Zhang, Lingsen and Yu, Zitong and Shao, Rui and Tan, Taoo and Nie, Liqiang},
-  journal={arXiv},
-  year={2025}
+@misc{zhu2025uniemounifyingemotionalunderstanding,
+      title={UniEmo: Unifying Emotional Understanding and Generation with Learnable Expert Queries}, 
+      author={Yijie Zhu and Lingsen Zhang and Zitong Yu and Rui Shao and Tao Tan and Liqiang Nie},
+      year={2025},
+      eprint={2507.23372},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2507.23372}, 
 }
