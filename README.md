@@ -14,7 +14,7 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 Great Bay University<br>
 Macau Polytechnic University<br>
 *Corresponding author<br>
-[![arXiv](https://img.shields.io/badge/arXiv-2407.14438-b31b1b.svg?logo=arxiv)](https://github.com/JiuTian-VL/UniEmo)
+[![arXiv](https://img.shields.io/badge/arXiv-2407.14438-b31b1b.svg?logo=arxiv)](https://arxiv.org/pdf/2507.23372))
 
 
 </div>
