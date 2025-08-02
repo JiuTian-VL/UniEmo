@@ -1,6 +1,5 @@
 <div align="center">
-<h2 class="papername"> UniEmo: Unifying Emotional Understanding and Generation with Learnable Expert Queries
-Reasoning </h2>
+<h2 class="papername"> UniEmo: Unifying Emotional Understanding and Generation with Learnable Expert Queries </h2>
 <div>
     <a href="https://scholar.google.com.hk/citations?user=0GtAUPoAAAAJ&hl=zh-CN&oi=sra" target="_blank">Yijie Zhu</a>,
     <a href="https://zls030726.github.io/" target="_blank">Lingsen Zhang</a>,
