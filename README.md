@@ -21,7 +21,9 @@ Macau Polytechnic University<br>
 </div>
 
 ## 🔥 If you find this work useful for your research, please kindly cite our paper and star our repo.
-
+## :fire: Updates
+- [07/2025] :fire: [arXiv paper](https://arxiv.org/pdf/2507.23372) released!
+- [04/2026] :fire: UniEmo has been accepted by **TIP**!
 ## 🔥 Introduction
 
 This is the github repository of *UniEmo: Unifying Emotional Understanding and Generation with Learnable Expert Queries*. In this work, we introduce UniEmo, a unified framework that synergistically integrates emotional understanding and generation through a hierarchical understanding chain and dual generation‑driven feedback.
@@ -30,6 +32,19 @@ The whole framework of UniEmo:
 <div align="center">
 <img src='assets/model.png' width='100%'>
 </div>
+
+## 🔥 Visualization
+Emotional images generated via UniEmo:
+<div align="center">
+<img src='assets/vis.png' width='100%'>
+</div>
+
+Visualisation of attention in two types of expert queries：、
+<div align="center">
+<img src='assets/atten.png' width='100%'>
+</div>
+
+
 
 ## 🔥 Details will be released. Stay tuned.
 
