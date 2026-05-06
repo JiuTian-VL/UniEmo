@@ -74,4 +74,11 @@ The attention maps demonstrate that the proposed expert queries learn complement
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2507.23372}, 
 }
+@inproceedings{zhu2025emosym,
+  title={EmoSym: A Symbiotic Framework for Unified Emotional Understanding and Generation via Latent Reasoning},
+  author={Zhu, Yijie and Lyu, Yibo and Yu, Zitong and Shao, Rui and Zhou, Kaiyang and Nie, Liqiang},
+  booktitle={Proceedings of the 33nd ACM International Conference on Multimedia},
+  year={2025}
+}
+
 
