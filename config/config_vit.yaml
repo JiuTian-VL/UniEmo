@@ -15,4 +15,3 @@ test_only: True ##set true for inference
 query_len: 32
 query_layer: 31
 
-##/data/Users/zyj/EmoGen/TIP 2026/runs/train_vit/best.pth
