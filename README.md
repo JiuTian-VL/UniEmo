@@ -13,8 +13,8 @@ School of Computer Science and Technology, Harbin Institute of Technology, Shenz
 Great Bay University<br>
 Macau Polytechnic University<br>
 *Corresponding author<br>
-[![UniEmo (TIP2026)](https://img.shields.io/badge/TIP_2026-arXiv_2507.23372-b31b1b.svg?logo=arxiv)](https://arxiv.org/pdf/2507.23372)
-[![EmoSym (ACM MM 2025)](https://img.shields.io/badge/ACM_MM_2025-arXiv_2407.14439-b31b1b.svg?logo=arxiv)](https://dl.acm.org/doi/abs/10.1145/3746027.3754549)
+[![TIP2026](https://img.shields.io/badge/TIP_2026-arXiv_2507.23372-b31b1b.svg?logo=arxiv)](https://arxiv.org/pdf/2507.23372)
+[![ACM MM 2025](https://img.shields.io/badge/ACM_MM_2025-arXiv_2407.14439-b31b1b.svg?logo=arxiv)](https://dl.acm.org/doi/abs/10.1145/3746027.3754549)
 
 
 </div>
