@@ -169,9 +169,6 @@ Visualization of attention maps from the two types of expert queries:
 The attention maps demonstrate that the proposed expert queries learn complementary emotional cues. Scene-level queries tend to focus on global contextual regions that shape the overall emotional atmosphere, while object-level queries attend to local emotion-related objects or details. This coarse-to-fine attention behavior supports UniEmo in extracting richer emotional representations for both understanding and generation.
 
 
-
-## 🔥 Details will be released. Stay tuned.
-
 ## 📝 Citation
 
 ```bib
