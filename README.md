@@ -102,8 +102,12 @@ pretrained_model_name_or_path: /path/to/your/stable-diffusion-v1-5
 train_data_dir: /path/to/your/dataset
 VIT_path: /path/to/your/stage1_trained_VIT_model
 ```
-
 Here, `pretrained_model_name_or_path` should be set to the path of your downloaded Stable Diffusion v1.5 model, `train_data_dir` should be replaced with the path to your training dataset, and `VIT_path` should be set to the path of the VIT model trained in Stage 1.
+After completing the configuration, launch the evaluation with:
+
+```bash
+python training/fine_tune.py 
+```
 
 ### 3.2 Evaluation
 
