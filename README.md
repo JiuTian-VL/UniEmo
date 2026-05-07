@@ -190,5 +190,8 @@ The attention maps demonstrate that the proposed expert queries learn complement
   booktitle={Proceedings of the 33nd ACM International Conference on Multimedia},
   year={2025}
 }
+```
+## Acknowledgement
+* Lots of code are inherited from [EmoGen](https://github.com/JingyuanYY/EmoGen) and [X-CLIP](https://github.com/microsoft/VideoX/tree/master/X-CLIP). Thanks for all these great works.
 
 
