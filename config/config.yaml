@@ -1,0 +1,18 @@
+attr_rate: 0.01
+emo_rate: 0.001
+emotion: all
+learnable_property: ['all']
+learning_rate: 0.001
+max_train_steps: 
+model: MLP
+need_Dropout: false
+need_LN: false
+need_ReLU: true
+num_fc_layers: 2
+num_train_epochs: 1
+output_dir: XXX
+pretrained_model_name_or_path: XX/stable-diffusion-v1-5
+VIT_path: runs/train_vit/best.pth ###Set path of model trained in stage 1 
+seed: 520
+threshold: 0
+train_data_dir: xxxx/EmoSet

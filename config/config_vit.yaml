@@ -1,0 +1,18 @@
+
+learning_rate: 0.0001
+seed: 500
+output_dir: runs/train_vit
+data_dir: XXX/EmoSet ###replace with your dataset path
+num_train_epochs: 15
+model_arch: ViT-L/14
+train_batch_size: 64
+warmup_epochs: 5
+weight_decay: 0.001
+fix_text: True
+model_resume: XXXXX
+cal_emotion_space: False ###set true for calculate emotion space for stage 2
+test_only: True ##set true for inference 
+query_len: 32
+query_layer: 31
+
+##/data/Users/zyj/EmoGen/TIP 2026/runs/train_vit/best.pth
