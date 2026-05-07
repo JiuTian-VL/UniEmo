@@ -23,6 +23,7 @@ Macau Polytechnic University<br>
 
 ## 🔥 If you find this work useful for your research, please kindly cite our paper and star our repo.
 ## :fire: Updates
+- [05/2026] :fire: The code is released. Enjoy it!
 - [04/2026] :fire: UniEmo has been accepted by **TIP**!
 - [07/2025] :fire: [arXiv paper](https://arxiv.org/pdf/2507.23372) released!
 ## 🔥 Introduction
